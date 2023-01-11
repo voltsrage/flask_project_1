@@ -1,0 +1,32 @@
+*.py[cod]
+
+# C extensions
+*.so
+
+.env
+.venv
+.vscode
+.__pycache__
+data.db
+*.pyc
+.DS_Store
+venv
+app.db
+
+venv
+app.db
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
