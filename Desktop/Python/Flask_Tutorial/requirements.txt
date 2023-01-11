@@ -5,3 +5,5 @@ flask-migrate
 python-dotenv
 flask-wtf
 flask-bootstrap
+flask-login
+email-validator
